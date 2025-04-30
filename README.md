@@ -20,7 +20,7 @@ Safely gets a string!
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/exampleuser/safegets
+git clone https://github.com/luke-teran/safegetstring
 cd safegets
 make
 sudo make install
